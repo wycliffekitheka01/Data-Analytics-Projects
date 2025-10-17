@@ -13,3 +13,5 @@ This repository contains my academic and practical data analytics projects, feat
 
 - **Project 3 – Excel Analysis**  
   Contains a full Excel-based data analysis project, including calculations, visualizations, and summarized findings in the same file.
+- **Project 4 – Python Linear Regression (Baseball Performance Prediction)**
+Uses Python’s scikit-learn to develop a linear regression model predicting the Oakland A’s 2002 baseball performance. The analysis explores key variables such as runs scored and runs allowed to forecast wins and compares predictions with actual outcomes for insight into team performance.
