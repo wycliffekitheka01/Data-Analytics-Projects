@@ -46,3 +46,5 @@ This repository contains my academic and practical data analytics projects, feat
   - Calculation and interpretation of the R-squared value to assess model fit.  
 
   The analysis provides actionable insights for D.M. Pan Real Estate Company to understand pricing trends and improve property valuation.
+- ** Project 9 – Bank Dashboard**
+A data analytics dashboard built for analyzing a comprehensive banking dataset. It allows exploration of customer transactions, account balances, demographics, and account types, with interactive visualizations. The dashboard can be deployed as a live web application, enabling recruiters or users to explore and analyze the data directly in the browser without the intervention of data analyst all the time, showcasing data cleaning, analysis, and visualization skills.
